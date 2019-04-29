@@ -63,10 +63,15 @@ Gathering all the processes I'm used to for tech.
  
 ## Hiring processes
 
- - Coding tests
+ - ATS
+ - Hiring funnel
+ - Scheduling tool
+ - Score cards
+ - Sanity code test
+ - HR tech questions
+ - Interview coding tests
  - Interview agenda
  - Code review test
- - Score card
  
 ## Team processes
 
